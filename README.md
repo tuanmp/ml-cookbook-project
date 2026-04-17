@@ -1,9 +1,8 @@
 # ML Cookbook Project
 
-[![CI](https://github.com/<OWNER>/<REPO>/actions/workflows/ci.yml/badge.svg)](https://github.com/<OWNER>/<REPO>/actions/workflows/ci.yml)
+[![CI](https://github.com/tuanmp/ml-cookbook-project/actions/workflows/ci.yml/badge.svg)](https://github.com/tuanmp/ml-cookbook-project/actions/workflows/ci.yml)
 
-Replace `<OWNER>/<REPO>` with your GitHub repository path.
-Remplacez `<OWNER>/<REPO>` par le chemin de votre depot GitHub.
+Repository / Depot: [https://github.com/tuanmp/ml-cookbook-project](https://github.com/tuanmp/ml-cookbook-project)
 
 Template de prototypage ML avec PyTorch + Lightning, base sur `uv`.
 ML prototyping template with PyTorch + Lightning, powered by `uv`.
